@@ -1,25 +1,28 @@
 ---
-title: Morbi tristique
-slug: first-post0655
-description: Lorem ipsum dolor sit amet
+title: Caso de Negocio
+slug: caso-de-negocio
+description: En esta sección se indica de forma clara y concisa sobre el caso de negocio
 category:
   - One
 tags:
-  - Tailwind
-  - Integer
-  - Markdown
-pubDate: 2023-09-01
+  - Caso
+  - Negocio
+pubDate: 2024-09-13
 cover: https://images.unsplash.com/photo-1587129400998-e706d622b0ab?q=80&w=1960&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: VV
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## Información del Proyecto
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Nuestro plan es abrir un servicio de consultoría en gestión de TI que brindará auditoría y optimización de recursos tecnológicos para la Institución Educativa Héroes del Alto Cenepa 6070. Nuestro equipo de gestión está formado por Alberto Mondragón, Gerson Sahuma, Samuel Talledo y Jhon Urbisagastegui. Nuestro equipo tiene la experiencia en gestión de infraestructura tecnológica aplicando el marco ITIL y capacitación de personal. Nuestro tamaño de mercado es el sector educativo. Para que este negocio despegue, requerimos acceso a las instalaciones del salón de cómputo y otros dispositivos para realizar un mapeo del hardware, software y redes, para los fines de herramientas de auditoría. Nuestro objetivo es alcanzar mejorar las conexiones para una red más estable, computadoras con velocidades más óptimas y servicios actualizados de acuerdo a los recursos ofrecidos.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+## Propósito y Justificación
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+La Institución Educativa Héroes del Alto Cenepa 6070 enfrenta problemas en la gestión de sus recursos tecnológicos debido a la falta de un enfoque estructurado. Los equipos están desactualizados y el mantenimiento es reactivo, lo que lleva a un rendimiento deficiente y costos innecesarios. La implementación de ITIL v4.0. permitirá una gestión más eficiente y proactiva de hardware, software y redes, optimizando el rendimiento y reduciendo costos de mantenimiento. Además, la capacitación del personal en prácticas de gestión mejorará la capacidad de resolución de problemas y el soporte técnico, elevando la satisfacción general del usuario y asegurando una infraestructura tecnológica más confiable. Este cambio es crucial para mejorar la eficiencia operativa y asegurar que los recursos tecnológicos estén alineados con las necesidades actuales de la institución, sin requerir inversiones adicionales en software.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+La implementación actual de la gestión de recursos tecnológicos en la institución no sigue un marco estructurado, como ITIL. El software utilizado para el inventario es una simple hoja de cálculo (Excel o Google Sheets), lo que impide gestionar eficientemente los activos tecnológicos. No se implementan prácticas de gestión de incidencias ni de mantenimiento preventivo, lo que genera un enfoque reactivo ante fallos. En cuanto al hardware, los equipos son antiguos y están desactualizados, lo que impacta en el rendimiento. La infraestructura de red está formada por routers y switches también desfasados, que presentan fallas recurrentes. Además, los equipos audiovisuales como proyectores no reciben mantenimiento regular. Aplicando ITIL, se debería implementar un sistema de gestión de activos y configuración para registrar y seguir el ciclo de vida de los equipos, y un catálogo de servicios para gestionar incidencias de manera más proactiva. Se requerirían herramientas específicas de software para automatizar estos procesos.
+
+## Links
+
+<a href="https://docs.google.com/document/d/1Vavu-ensvtoKHfiPSL5SMCuBGYmh5h0c/edit?usp=sharing&ouid=101562657354961412591&rtpof=true&sd=true" target="_blank">Documento del Caso del Negocio</a>

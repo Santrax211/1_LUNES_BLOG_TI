@@ -1,25 +1,45 @@
 ---
-title: Diam phasellus
-slug: first-post072
-description: Lorem ipsum dolor sit amet
+title: Cubo de Interesados
+slug: cubo-de-interesados
+description: En esta sección se realizó un análisis del cubo de interesados
 category:
   - One
 tags:
-  - Tailwind
-  - Integer
-  - Markdown
-pubDate: 2023-09-01
+  - Proyectos
+  - Cubo
+  - Interesados
+pubDate: 2024-09-15
 cover: https://images.unsplash.com/photo-1502847427791-d0194ec4cff4?q=80w=1960&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: VV
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## Cubo de Interesados
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Es una representación tridimensional que permite visualizar cómo diferentes partes interesadas se relacionan entre sí y con el proyecto. Aunque no es tan común como la matriz de interesados, se utiliza para evaluar el nivel de influencia y el interés de cada parte interesada en un contexto más amplio.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+En este proyecto se analizó a los involucrados y por medio de este método se pudo establecer la relevancia necesaria de cada uno.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+<p>Archivo del <a href="https://drive.google.com/file/d/1UobAdHKOIhZlIsCKwsvxlLW3UBJm4Y3y/view?usp=sharing" target="_blank">Cubo de interesados</a></p>
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+## Matriz de Interesados
+
+Es una herramienta más común y práctica que clasifica a las partes interesadas en función de dos criterios: su interés en el proyecto y su influencia sobre el mismo. Esto permite identificar estrategias adecuadas para gestionar la comunicación y el compromiso con cada grupo.
+
+Para complementar el cubo de interesados del proyecto en progreso, se decidió mostrar la respectiva matriz de interesados.
+
+<p>Archivo de la <a href="https://drive.google.com/file/d/1Zw8FetEPOeEOXntstBHWNTopgve3QYuF/view?usp=sharing" target="_blank">Matriz de interesados</a></p>
+
+## Beneficios de Usar el Cubo y la Matriz de Interesados
+
+1. Identificación de Interesados: Permiten identificar quiénes son los interesados clave en el proyecto y comprender sus motivaciones y preocupaciones.
+
+2. Priorización de Recursos: Ayudan a decidir dónde enfocar los esfuerzos de comunicación y gestión de relaciones.
+
+3. Gestión de Riesgos: Al entender las dinámicas entre los interesados, se pueden anticipar y mitigar riesgos relacionados con la resistencia al cambio o la falta de apoyo.
+
+4. Mejora de la Comunicación: Facilitan una mejor planificación de las estrategias de comunicación, asegurando que todos los interesados reciban la información adecuada en el momento adecuado.
+
+## Link
+
+<p>Para más información sobre el<a href="https://docs.google.com/spreadsheets/d/1D_oKNXbLTypLWM_DGMCPlkCbf23Geq4X/edit?usp=sharing&ouid=101562657354961412591&rtpof=true&sd=true" target="_blank">Cubo y Matriz de interesados</a></p>
