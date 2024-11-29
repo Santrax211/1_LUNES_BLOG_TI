@@ -1,25 +1,35 @@
 ---
-title: Fringilla urna
-slug: first-post057
-description: Lorem ipsum dolor sit amet
+title: Análisis de Alternativas
+slug: analisis-de-alternativas
+description: En esta sección se estará mostrando el análisis de alternativas
 category:
   - One
 tags:
-  - Tailwind
-  - Integer
-  - Markdown
-pubDate: 2023-09-01
+  - Análisis
+  - Alternativas
+  - Proyecto
+pubDate: 2024-09-01
 cover: https://images.unsplash.com/photo-1498805983167-a523078d762c?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: VV
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## Análisis de Alternativas
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Se realiza la identificación de acciones específicas, enfocándose en la gestión de recursos tecnológicos y buenas prácticas. Se incluyen estrategias como implementar software de monitoreo en tiempo real, establecer indicadores clave de gestión (KPIs), diseñar calendarios de mantenimiento y crear políticas de estandarización. Además, se enfatiza la capacitación continua, la documentación de lecciones aprendidas y la creación de equipos con funciones claras para mejorar la eficiencia operativa y el uso de herramientas tecnológicas.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+<p>Archivo del<a href="https://docs.google.com/document/d/" target="_blank"> Análisis de Alternativas</a></p>
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+## Alternativas Planteadas
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Teniendo en cuenta el análisis, se procede a abordar las alternativas para optimizar la gestión de proyectos, enfocándose en la mejora continua y la estandarización de procesos. Propone acciones como establecer actividades de priorización, implementar KPIs, asignar tareas específicas y crear protocolos para el uso eficiente de herramientas. Además, se destaca la importancia de la capacitación constante, tanto presencial como virtual, la documentación de problemas frecuentes, la implementación de software de monitoreo en tiempo real y el diseño de cronogramas de mantenimiento para gestionar mejor los recursos tecnológicos.
+
+<p>Archivo de las<a href="https://docs.google.com/document/d/" target="_blank"> Alternativas planteadas</a></p>
+
+## Selección de Alternativa
+
+Se procede con la evaluación de las alternativas, donde se consideran criterios como la asignación de responsabilidades, el uso de software de monitoreo en tiempo real, la implementación de KPIs, la capacitación y las políticas de buenas prácticas. La decisión se basa en un análisis de componentes clave, como mantenimiento, mejora continua y protocolos. Cada alternativa se evalúa según la capacidad para cumplir con los objetivos establecidos,
+
+<p>Archivo de la<a href="https://docs.google.com/document/d/" target="_blank"> Selección de la alternativa</a></p>
+
+
