@@ -8,7 +8,7 @@ tags:
   - Base
   - Cronograma
 pubDate: 2024-11-02
-cover: https://images.unsplash.com/photo-1532986850873-e1ddfc9f4f7b?q=80&w=1960&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: https://images.ctfassets.net/p03bi75xct27/6LJAb3W5rHIT6mjdkXJyjA/9d272988f06044b35d9497867b8c71e9/CronogramaAnaAlejandra.png
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: Jhon Urbisagastegui
 ---

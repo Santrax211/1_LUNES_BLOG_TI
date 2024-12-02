@@ -8,7 +8,7 @@ tags:
   - Acta
   - Proyecto
 pubDate: 2024-09-16
-cover: https://images.unsplash.com/photo-1493836692373-ad82dc8644c3?q=80&w=1960&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: https://blog.structuralia.com/hubfs/Formato%20Header%20Blog%201050x550-2%20%281%29-Jun-13-2023-08-49-33-4929-AM.png
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: Jhon Urbisagastegui
 ---

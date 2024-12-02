@@ -8,7 +8,7 @@ tags:
   - Metodología
   - Proyecto
 pubDate: 2024-09-15
-cover: https://images.unsplash.com/photo-1597748609372-31b0eb2c4fe7?q=80w=1960&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: https://blog.invgate.com/hs-fs/hubfs/png%3Bbase6435b8e605c78f0a95.png?width=1024&name=png%3Bbase6435b8e605c78f0a95.png
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: Samuel Talledo
 ---

@@ -10,7 +10,7 @@ tags:
   - Desglose
   - Proyecto
 pubDate: 2024-10-21
-cover: https://images.unsplash.com/photo-1568570708539-72b3e58067a2?q=80&w=1960&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: https://cdnb.ganttpro.com/uploads/2021/10/como-hacer-un-wbsedt-diagrama-edt-de-un-proyecto.jpg
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
 author: Gerson Sahuma
 ---
