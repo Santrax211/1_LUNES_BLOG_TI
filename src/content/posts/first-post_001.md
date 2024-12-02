@@ -9,7 +9,7 @@ tags:
 pubDate: 2024-09-13
 cover: https://img.freepik.com/vector-premium/rastreador-objetivos-seguimiento-proyectos-hombre-negocios-pisa-casilla-verificacion-lista-verificacion-avanzar-objetivo-progresion-principio-exito-finalizacion-tareas-finalizar-proyecto-desarrollo-o-mejora_458444-1805.jpg
 coverAlt: AstroVerse-Lorem ipsum dolor sit amet
-author: VV
+author: Gerson Sahuma
 ---
 
 ## Caso de negocio del Proyecto
