@@ -27,8 +27,6 @@ Este proceso busca establecer las políticas, procedimientos y la documentación
 <p>Archivo del<a href="https://docs.google.com/document/d/1K-MUygS7oJsSlDSGVXgGi1ZzDg6cpyRTdJP5VJTeKHo/edit?usp=sharing
 " target="_blank"> Plan de gestión de los costos</a></p>
 
-<p>Archivo de la<a href="https://docs.google.com/document/d/1A9qbxjo_m7Bwofzo3Ox51-EUTO65hdb3ftWaA1bZh0o/edit?usp=sharing" target="_blank"> Plan de gestión de los costos</a></p>
-
 ## 1.2. Estimación de los Costos
 
 Este proceso busca estimar los costos aproximados de los recursos necesarios para llevar a cabo las actividades del proyecto.
