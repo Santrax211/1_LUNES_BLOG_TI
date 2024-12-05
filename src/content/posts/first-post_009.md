@@ -127,4 +127,4 @@ La mejora continua garantiza que el proyecto evolucione y se adapte a los cambio
 
 ## Link
 
-<p>Archivo del<a href="https://drive.google.com/file/d/1blfxRIwYfSlTMjWHn2cvcBKgcZ_QaB1U/view?usp=sharing" target="_blank"> Análisis de Alternativas</a></p>
+<p>Archivo de la<a href="https://drive.google.com/file/d/1blfxRIwYfSlTMjWHn2cvcBKgcZ_QaB1U/view?usp=sharing" target="_blank"> Estructura de Desglose del Trabajo (Work Breakdown Structure)</a></p>
