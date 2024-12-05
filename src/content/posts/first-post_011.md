@@ -24,8 +24,7 @@ Este proceso busca establecer las políticas, procedimientos y la documentación
 
 ### Salida
 
-<p>Archivo del<a href="https://docs.google.com/document/d/1K-MUygS7oJsSlDSGVXgGi1ZzDg6cpyRTdJP5VJTeKHo/edit?usp=sharing
-" target="_blank"> Plan de gestión de los costos</a></p>
+<p>Archivo del<a href="https://docs.google.com/document/d/1K-MUygS7oJsSlDSGVXgGi1ZzDg6cpyRTdJP5VJTeKHo/edit?usp=sharing" target="_blank"> Plan de gestión de los costos</a></p>
 
 ## 1.2. Estimación de los Costos
 
